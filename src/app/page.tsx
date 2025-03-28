@@ -2,7 +2,11 @@ import React from 'react'
 
 const Home = () => {
     return (
-        <h1>HOME!</h1>
+        <center>
+            <h1>
+                Jenkins is Live
+            </h1>
+        </center>
     )
 }
 
